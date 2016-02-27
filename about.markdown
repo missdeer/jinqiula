@@ -5,6 +5,7 @@ layout: page
 可以通过以下方式联系我们：
 
 * 微信公众号：goal_win
+![微信公众号：goal_win](/media/files/mpweixin.png)
 * 客服QQ：2717216956
 * 微信：gb_win
 

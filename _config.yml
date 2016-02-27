@@ -1,5 +1,5 @@
 highlighter: rouge
-permalink: /:year/:month/:day/:title.html
+permalink: /:title
 name: "进球啦"
 
 author: "进球啦"

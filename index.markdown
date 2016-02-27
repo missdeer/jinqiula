@@ -19,9 +19,9 @@ layout: default
   </ul>
   <div class="divider"></div>
   <ul class="listing main-listing">
-    <li class="listing-seperator"><a href="/2016/02/27/download.html">软件下载</a></li>
-    <li class="listing-seperator"><a href="/2016/02/27/pay.html">充值续费</a></li>
-    <li class="listing-seperator"><a href="/2016/02/27/faq.html">常见问题</a></li>
+    <li class="listing-seperator"><a href="/download">软件下载</a></li>
+    <li class="listing-seperator"><a href="/pay">充值续费</a></li>
+    <li class="listing-seperator"><a href="/faq">常见问题</a></li>
     <li class="listing-seperator"><a href="/about.html">联系我们</a></li>
   </ul>
 </div>

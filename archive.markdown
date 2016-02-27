@@ -9,4 +9,5 @@ layout: page
     <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
   </li>
 {% endfor %}
+  <li class="listing-item"><a href="/about.html" title="联系我们">联系我们</a></li>
 </ul>

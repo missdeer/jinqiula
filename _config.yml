@@ -1,11 +1,11 @@
 markdown: rdiscount
 highlighter: pygments
 permalink: /:year/:month/:day/:title.html
-name: "rusty shutter"
+name: "进球啦"
 markdown: rdiscount
 
-author: "Kani"
-atom-baseurl: "http://kani.yii.li"
+author: "进球啦"
+atom-baseurl: "http://www.jinqiula.net"
 disqus: ""
 
 navigations:

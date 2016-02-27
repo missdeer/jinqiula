@@ -19,6 +19,7 @@ layout: default
   </ul>
   <div class="divider"></div>
   <ul class="listing main-listing">
+    <li class="listing-seperator"><a href="/introduce">关于进球啦</a></li>
     <li class="listing-seperator"><a href="/download">软件下载</a></li>
     <li class="listing-seperator"><a href="/pay">充值续费</a></li>
     <li class="listing-seperator"><a href="/faq">常见问题</a></li>

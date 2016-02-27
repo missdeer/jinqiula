@@ -29,18 +29,9 @@ layout: default
   </ul>
   <div class="divider"></div>
   <ul class="listing main-listing">
-    <li class="listing-seperator">Happend earlier this year</i>
-  {% capture year %}{{ site.time | date:"%Y"}}{% endcapture %}
-  {% for post in site.posts offset:1 %}
-    {% capture y %}{{ post.date | date:"%Y"}}{% endcapture %}
-    {% if year != y %}
-    {% break %}
-    {% endif %}
-    <li class="listing-item">
-      <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>
-      <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-    <li class="listing-seperator"><a href="/archive.html">Long long ago</a></li>
+    <li class="listing-seperator"><a href="/2016/02/27/download.html">软件下载</a></li>
+    <li class="listing-seperator"><a href="/2016/02/27/pay.html">充值续费</a></li>
+    <li class="listing-seperator"><a href="/2016/02/27/faq.html">常见问题</a></li>
+    <li class="listing-seperator"><a href="/about.html">联系我们</a></li>
   </ul>
 </div>

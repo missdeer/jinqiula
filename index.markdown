@@ -10,17 +10,7 @@ layout: default
       <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
     </section>
     <section class="meta">
-    <span class="time">
-      <time datetime="{{ post.date | date:"%Y-%m-%d" }}">{{ post.date | date:"%Y-%m-%d" }}</time>
-    </span>
-    {% if post.tags %}
-    <span class="tags">
-      {% for tag in post.tags %}
-      <a href="/tags.html#{{ tag }}" title="{{ tag }}">#{{ tag }}</a>
-      {% endfor %}
-    </span>
-    {% endif %}
-   </section>
+ </section>
     <section class="post">
     {{ post.content }}
     </section>

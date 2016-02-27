@@ -1,5 +1,5 @@
 ---
-title: about
+title: 联系我们
 layout: page
 ---
 可以通过以下方式联系我们：

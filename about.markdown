@@ -8,6 +8,7 @@ layout: page
 * 微信公众号：goal_win
 ![微信公众号：goal_win](/media/files/mpweixin.png)
 * 微信：gb_win
+![微信：gb_win](/media/files/weixin.png)
 
 欢迎大家关注我们的微信公众号，公众号会经常更新我们的比赛速递、软件升级以及优惠活动等。
 欢迎大家随时通过QQ或微信联系我们的客服，目前只有一位客服，如回复未及时，还请见谅。
